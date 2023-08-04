@@ -133,6 +133,7 @@
     "@tensorflow/tfjs-core": "4.10.0",
     "@tensorflow/tfjs-data": "4.10.0",
     "@tensorflow/tfjs-layers": "4.10.0",
+    "@tensorflow/tfjs-node": "4.10.0",
     "tar": "^4.4.19",
     "toidentifier": "^1.0.1",
     "tr46": "^0.0.3",
